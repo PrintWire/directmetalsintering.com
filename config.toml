@@ -5,6 +5,7 @@ title = "DIRECTMETALSINTERING"
 [params]
   description = "Metal additive manufacturing news, research, and services. DMLS, SLM, EBM coverage for aerospace, medical, and industrial applications."
   siteName = "DIRECTMETALSINTERING"
+logoHtml = 'DIRECT<span class="ed-logo-accent">METAL</span>SINTERING'
   tagline = "The authoritative source for metal additive manufacturing news"
 
 [taxonomies]
